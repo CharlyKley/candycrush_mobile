@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_transparent.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_candyspl.gif.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\candyspl.gif"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_main_page.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\main_page.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_bluecandy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\bluecandy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\layout_activity_play.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_purplecandy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\purplecandy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_yellowcandy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\yellowcandy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_orangecandy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\orangecandy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_candy_background.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\candy_background.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_redcandy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\redcandy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_playbtn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\playbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.candycrush.app-merged_res-27:/layout_activity_main.xml.flat",
+        "source": "com.example.candycrush.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_greencandy.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\greencandy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-merged_res-27:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.candycrush.app-main-29:\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
